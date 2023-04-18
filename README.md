@@ -63,6 +63,10 @@ A list of tools to search accounts by username with pros and cons.
 * 35 sites in database
 * small and fast
 
+### [mailcat](https://github.com/sharsil/mailcat)
+* checks for **email** and username usage on 12 platforms 
+* uses api, SMTP, user registration/recovery method
+
 #### [Socialscan](https://github.com/iojw/socialscan)
 * checks for **email** and username usage on 12 platforms 
 * uses api, not a direct userpage link 👍
